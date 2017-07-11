@@ -1,0 +1,19 @@
+{
+  "name": "pva",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letangileri/Progetto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/letangileri/Progetto/issues"
+  },
+  "homepage": "https://github.com/letangileri/Progetto#readme"
+}
